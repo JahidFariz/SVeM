@@ -1,0 +1,10 @@
+urllib3
+chardet
+certifi
+idna
+PyAudio
+colorama
+pyttsx3
+requests
+SpeechRecognition
+
